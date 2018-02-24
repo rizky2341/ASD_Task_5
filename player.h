@@ -25,7 +25,7 @@ void playRepeat(List &, int n);
 void deleteMusicByID(List &, infotype);
 // user input song ID
 // remove the song from the list
-
+void insertAndSort(List &L, address P);
 
 
 #endif // PLAYER_H_INCLUDED
